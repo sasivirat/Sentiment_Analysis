@@ -1,0 +1,17 @@
+# Data Manipulation
+pandas==1.5.3  
+numpy==1.23.5  
+
+# Visualization
+matplotlib==3.6.3  
+seaborn==0.12.2  
+wordcloud==1.8.2.2  
+plotly==5.13.1  
+
+# Machine Learning and NLP
+scikit-learn==1.2.0  
+torch==1.13.1  
+transformers==4.26.0  
+
+# Utilities
+tqdm==4.64.1  
